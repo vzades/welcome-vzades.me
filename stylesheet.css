@@ -1,0 +1,8 @@
+
+.welcome {
+     font-size: 100px;
+    font-weight: bold; 
+    color : #d54937;
+    border-radius: 5px;
+    padding: .5em;
+}
